@@ -1,0 +1,15 @@
+{
+  "pack": {
+    "pack_format": 9,
+    "description": {
+      "text": "The Mob Reskin resource pack",
+      "color": "red",
+      "font": "minecraft:default",
+      "bold": true,
+      "italic": false,
+      "underlined": false,
+      "strikethrough": false,
+      "obfuscated": false
+    }
+  }
+}
